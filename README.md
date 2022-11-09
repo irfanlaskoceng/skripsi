@@ -19,6 +19,6 @@ Program ini adalah implementasi skripsi yang berjudul "Klasifikasi Penyakit Jant
 Program ini dijalankan menggunakan:
 
 - Bahasa Python, dengan library: 
-  - Fask 
+  - Flask 
   - Pandas 
   - Numpy
